@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Adven of code 2022.iml" filepath="$PROJECT_DIR$/.idea/Adven of code 2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python Crash Course/Chapter 12 - AI, Try it yourself/.idea/Chapter 12 - AI, Try it yourself.iml" filepath="$PROJECT_DIR$/../Python Crash Course/Chapter 12 - AI, Try it yourself/.idea/Chapter 12 - AI, Try it yourself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python Crash Course/Project I - alien invasion/.idea/Project I - alien invasion.iml" filepath="$PROJECT_DIR$/../Python Crash Course/Project I - alien invasion/.idea/Project I - alien invasion.iml" />
     </modules>
   </component>
 </project>
