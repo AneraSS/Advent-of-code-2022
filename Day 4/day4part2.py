@@ -10,7 +10,7 @@ def extract_first_number(string):
 def parse_range(string):        # returns ((int, int), rest)
     number_one, reduced_string_one = extract_first_number(string)
     number_two, reduced_string_two = extract_first_number(reduced_string_one[1:])
-    return  (number_one, number_two), reduced_string_two
+    return (number_one, number_two), reduced_string_two
 
 def parse_pair_of_ranges(string):    # returns four numbers as two pairs: ((a,b),(c,d)) - as tuple
     range1, reduced_string = parse_range(string)

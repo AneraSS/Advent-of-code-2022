@@ -1,0 +1,16 @@
+
+    [N]
+    [D]
+    [B]
+[P] [G] [L]         [T]            
+[L] [F] [M] [G]     [G]     [S]    
+[M] [Q] [Q] [W]     [H] [R] [G]    
+[N] [M] [F] [M] [N] [D] [V] [R] 
+[W] [L] [G] [Q] [P] [J] [F] [M] [C]
+[V] [H] [B] [F] [H] [M] [B] [H] [B]
+[B] [Q] [D] [T] [T] [B] [N] [L] [D]
+[H] [M] [N] [Z] [M] [C] [M] [P] [P]
+ 1   2   3   4   5   6   7   8   9 
+
+move 8 from 3 to 2
+move 1 from 9 to 5
